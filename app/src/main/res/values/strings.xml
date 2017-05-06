@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Tour Guide</string>
+
+    <!-- string untuk ditampilkan pada LinearLayout untuk ListView -->
+    <string name="contoh_text">Contoh Text</string>
+
+    <!-- string untuk ditampilkan pada SlidingTab -->
+    <string name="st_events">Events</string>
+    <string name="st_resto">Resto</string>
+    <string name="st_history">History</string>
+    <string name="st_culture">Culture</string>
+
+    <!-- string untuk pass objek dari fragment ke informasi detail -->
+    <string name="pass_information">passInformation</string>
+
+    <!-- string untuk kategori : CULTURE -->
+    <string name="culture_judul_barong">Barong</string>
+    <string name="culture_deskrispi_barong">
+        Barong bali dipercaya sebagai metamorfosis dari barong ponorogo atau Reog, oleh raja Airlangga saat mengungsi ke pulau Bali untuk menyelamatkan diri. selain barong ponorogo yang dibawa ke bali, melainkan juga seperti seni sastra, aksara jawa, serta keagamaan. Dalam perkembangannya barong ponorogo di rubah bentuk dan cerita sesuai kondisi masyarakat di bali yang diperuntukan untuk kegiatan spiritual keagamaan. Pengaruh yang di dapat pada barong Bali bisa di lihat pada bentuk barong ponorogo saat tampil tanpa mahkota merak (Kucingan) dan pada Topeng Rangda yang mendapat pengaruh dari topeng bujang ganong. Serta kelompok orang orang yang mendalami ilmu kesaktian pada orang tua yang mendapat pengaruh pada perilaku kegiatan nyata warok muda dan warok tua yang sakti mandraguna yang saat ini masih terjaga di Ponorogo, meskipun kegiatan tersebut saat ini tertutup untuk kalangan tertentu. Dengan begitu, muncul jenis barong bali dengan berbagai kepala hewan seperti Babi, Gajah, Anjing dan Burung yang menjadi kebanggaan tiap-tiap kota di bali.
+    </string>
+
+    <!-- string untuk kategori : EVENTS -->
+    <string name="events_judul_pkb">Pesta Kesenian Bali</string>
+    <string name="events_deskrispi_pkb">
+        Pesta Kesenian Bali (PKB) yang merupakan agenda rutin tahunan Pemerintah Provinsi Bali, yang dijadikan sebagai wadah aktivitas dan kreativitas para seniman dalam upaya ikut mendukung program pemerintah dalam hal penggalian, pelestarian dan pengembangan nilai – nilai seni budaya Bali yang adhiluhung. Festival atau parade Gong Kebyar merupakan salah satu acara dalam agenda Pesta Kesenian Bali yang sangat bergengsi. Dalam festival acara tersebut, kita dapat melihat atau menyaksikan karya seni sebagai hasil kreativitas para seniman dan kepiawaian para pengrawit dalam memainkan gambelan Gong Kebyar.
+    </string>
+
+</resources>
